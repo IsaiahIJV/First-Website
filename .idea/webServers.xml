@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="4df66472-1c1f-4629-8289-94288572d5c9" name="CS Lab Server Outside" url="http://www.newbury.com/isaiahvertus">
+        <fileTransfer host="www.newbury.com" port="22" rootFolder="/var/www/html/isaiahvertus" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

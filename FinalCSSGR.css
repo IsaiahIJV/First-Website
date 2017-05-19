@@ -1,0 +1,196 @@
+body{
+    color: white;
+    background-color: darkcyan;
+}
+
+a{
+    text-decoration: none;
+    color:black;
+}
+
+.logo {
+    float:right;
+    width:15%;
+    background-color: black;
+}
+
+.Search {
+    float: right;
+    width: 15%;
+    background-color: black;
+}
+
+.Header {
+    float: left;
+    width: 85%;
+    background-color: dodgerblue;
+}
+
+.Navigation {
+    clear: both;
+    background-color:lightslategray;
+}
+
+.navlist{
+    display: inline;
+    list-style-type: none;
+}
+
+.navlist li {
+    display: inline;
+}
+
+.navlist li {
+    display:inline;
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
+
+.Content {
+    clear: both;
+}
+.ContentLeft {
+    float:left;
+    width:85%;
+    background-color: black;
+}
+.ContentRight {
+    width:85%;
+    float:left;
+    background-color: black;
+}
+.Footer {
+    clear: both;
+    width: 100%;
+    background-color: gray;
+}
+
+.contactContent {
+    /*width: 370px;*/
+    text-align: center;
+    font: 9px Arial;
+    color: #333;
+}
+
+.contactContent a {
+    color: #333;
+}
+
+.picture {
+    float:left;
+    width:50%;
+    text-align: center;
+}
+
+.picture img {
+    width: 100%;
+}
+
+.picture2 {
+    float:right;
+    width:50%;
+    text-align: center;
+}
+
+.picture2 img {
+    width: 100%;
+}
+
+.picture3 {
+    float:left;
+    width:50%;
+    text-align: center;
+}
+
+.picture3 img {
+    width: 100%;
+}
+
+.picture4 {
+    float:right;
+    width:50%;
+    text-align: center;
+}
+
+.picture4 img{
+    width: 100%;
+}
+
+.Picture5 {
+    width:100%;
+    text-align: center;
+}
+
+.Gif1 img {
+    width: 50%;
+    float: left;
+    text-align: center;
+}
+
+.Gif2 img {
+    width: 50%;
+    float: right;
+    text-align: center;
+}
+
+.Gif3 img {
+    width: 50%;
+    float: left;
+    text-align: center;
+}
+
+.Gif4 img {
+    width: 50%;
+    float: right;
+    text-align: center;
+}
+
+.ContentHome1{
+    width: 100%;
+    text-align: center;
+    color: white;
+    background-color: black;
+}
+
+.ContentHome2{
+    width: 100%;
+    text-align: center;
+    color: white;
+    background-color: black;
+}
+
+.ContentRightReviews2{
+    width: 100%;
+    text-align: center;
+    color: white;
+    background-color: black;
+}
+
+.Gif5 img {
+    width: 50%;
+    float: left;
+    text-align: center;
+}
+
+.Gif6 img {
+    width: 50%;
+    float: right;
+    text-align: center;
+}
+
+.Image1 {
+    width:50%;
+    float: left;
+}
+
+.Image2 {
+    width:100%;
+    float: right;
+}
+
+
+
+
+
+
